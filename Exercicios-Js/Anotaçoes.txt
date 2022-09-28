@@ -1,0 +1,35 @@
+OBS:O Horário pode parecer que não foi o que está na planilha pois varias vezes eu voltava
+o video pra entender melhor,ou fazia uma
+rápida pesquisa sobre o assunto,para um melhor aprendizado.
+
+
+35- Organização 11:07
+Organizado em blocos de codigos e sentenças de código
+que podem ou não terminar em ponto e virgula,com blocos fechados com {} 
+
+36- Executando Java Script 10:31
+tipos de ides pra usar durante o curso.
+
+37- Comentários de código 8:43
+códigos podem ser comentados por linhas e por paragrafos
+com linhas usam //
+com paragrafos /* */
+
+38- Básico de Var Let e const 10:49
+Var pode ser recolacada um novo valor ,que tambem pode ser ultilizado o let.
+const - uma constante que não pode ser mudada
+39 - Tipagem fraca - 07:01
+É de tipagem fraca porque n possuiu muitos tipo como as outras liguagen,generaliza todas em uma só praticamente.
+
+40 - Tipos de Java Script 07:51
+Number ,String 
+
+41 - Tipo Number 7:51
+Tipo number e algumas de suas funcionalidades
+
+42 - Numeros :Alguns cuidados 06:08
+
+43 - Usando Math 2:36
+uma biblioteca que faz algumas contas logo,sem precisar fazer tudo na mão
+44 - Tipo em String 15:25
+Uso de suas funçoes
