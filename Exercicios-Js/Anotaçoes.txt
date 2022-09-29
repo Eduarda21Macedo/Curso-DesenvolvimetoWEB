@@ -33,7 +33,12 @@ Tipo number e algumas de suas funcionalidades
 uma biblioteca que faz algumas contas logo,sem precisar fazer tudo na mão
 44 - Tipo em String 15:25
 Uso de suas funçoes
+aconselhado a usar mais para dados textuais
 
 45 - Usando templates Strings 07:08
+
 46 - Tipo Boolean 13:49
+lógica de verdadeiro ou falso 
 47 = Array 10:52
+semelhantes a listas
+48 - Object  12:43
