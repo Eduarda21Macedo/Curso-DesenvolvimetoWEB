@@ -36,3 +36,4 @@ Uso de suas funçoes
 
 45 - Usando templates Strings 07:08
 46 - Tipo Boolean 13:49
+47 = Array 10:52
