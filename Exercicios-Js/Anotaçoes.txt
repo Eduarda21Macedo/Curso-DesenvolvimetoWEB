@@ -41,4 +41,18 @@ aconselhado a usar mais para dados textuais
 lógica de verdadeiro ou falso 
 47 = Array 10:52
 semelhantes a listas
+
 48 - Object  12:43
+Notação literal de objetos
+
+49 - Null e Undefined 18:53
+passagem por valor - com tipos primitivos
+passagem por referencia - com objetos
+
+50 -Quase Tudo Funçao 6:00
+
+51 - Exemplos de Funçao 11:10 + 8:14
+ executa um processo baseado na sentença de código.
+
+
+
