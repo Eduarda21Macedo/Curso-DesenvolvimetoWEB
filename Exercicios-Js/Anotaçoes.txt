@@ -54,5 +54,12 @@ passagem por referencia - com objetos
 51 - Exemplos de Funçao 11:10 + 8:14
  executa um processo baseado na sentença de código.
 
+52 e 53 - Declaração de Varáveis 08:46 + 03:14
+Var  e suas funcionalidades
+Escopo Global e escopo de função
 
+54- Declarção Let 03:51
+Escopo Global,funçao e bloco
+
+55 - Usando Var em Loop 4:43
 
