@@ -61,5 +61,10 @@ Escopo Global e escopo de função
 54- Declarção Let 03:51
 Escopo Global,funçao e bloco
 
-55 - Usando Var em Loop 4:43
+55 - Usando Var em Loop 14:43
+
+56 - Um let em Loop 02 2:00
+57 - Usando Var em Loop 01 4:00
+58 - uSando Let em loop  02 2:00
+59 - Entendendo o Hoisting 7:00
 
