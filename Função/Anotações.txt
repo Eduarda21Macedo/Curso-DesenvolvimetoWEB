@@ -1,0 +1,5 @@
+Cidadão de primeira linha
+Parametros e Retornos são opcionais
+Parâmetros Variavéis
+Parâmetros Padrão
+This pode variar
