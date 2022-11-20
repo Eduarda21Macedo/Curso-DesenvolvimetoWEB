@@ -1,0 +1,37 @@
+
+This pode variar
+
+This - referência ao objeto , dependendo de como a função é chamada.
+
+Código Browse
+
+1° EX:
+function f1 () {console.log(this === window)}
+chamada
+f1()  receberá true.
+
+Nesse exemplo o this aponta pro objeto global window
+
+2°EX:
+document.getElementsByTagName(‘body’)[0].on.click = f1 
+f f1 {console.log(this === window)}
+
+Receberá false, pois o this variou.
+
+3°EX:
+function f2(){console.log(this === document)}
+f2() 
+receberá false. 
+
+4°EX:
+const body = documentElementsByTagName(‘body’)[0].onclick = f2
+function f2 () {console.log(this === document)}
+document.getElementsByTagName('body')[0].onclick = f2
+recebe true
+chamada:
+f2() receberá false
+
+5°EX:
+const f3 = () => console.log( this === window) 
+f3 () 
+recebe true.

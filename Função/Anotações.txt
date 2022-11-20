@@ -3,3 +3,8 @@ Parametros e Retornos são opcionais
 Parâmetros Variavéis
 Parâmetros Padrão
 This pode variar
+ThisBind 01
+ThisBind 02
+Função Arrow 01
+Função Arrow 02
+Função Anonimas Callback
